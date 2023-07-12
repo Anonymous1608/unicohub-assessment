@@ -43,12 +43,12 @@ export default function Navbar() {
                   <NavLink to='/'>
                   <img
                     className="block h-8 w-auto lg:hidden"
-                    src="src/assets/logo.png"
+                    src="/logo.png"
                     alt="Your Company"
                   />
                   <img
                     className="hidden h-8 w-auto lg:block"
-                    src="src/assets/logo.png"
+                    src="/logo.png"
                     alt="Your Company"
                   />  
                   </NavLink>

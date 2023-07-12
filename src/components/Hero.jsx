@@ -1,7 +1,5 @@
 import React from 'react'
-import heroImage from '../assets/image3.png'
-import line from '../assets/Line2.png'
-import Vector from '../assets/Vector.svg'
+
 
 
 const Hero = () => {
@@ -20,17 +18,17 @@ const Hero = () => {
         <p className='md:text-2xl text-gray-400 text-xl text-center md:text-left'>
           Our vision is to revolutionize the way brands and <br /> advertisers target, reach
         </p>
-        <img className='mt-10 mb-8' src={line} alt="image" />
+        <img className='mt-10 mb-8' src='Line2.png' alt="image" />
 
           <button className='inline-flex get-started lg:w-[42%] md:w-2/3 items-center justify-center hover:justify-evenly h-16 px-10 py-0 text-xl font-semibold text-center text-gray-200 no-underline align-middle bg-transparent rounded-full cursor-pointer select-none hover:text-white hover:border-white focus:shadow-xs focus:no-underline mt-8'>
             <p className=''>Get Started</p>
-            <span><img src={Vector} alt="Vector.svg" className="w-8 h-7 ml-5" ></img></span>
+            <span><img src='Vector.svg' alt="Vector.svg" className="w-8 h-7 ml-5" ></img></span>
           </button>
 
           </div>
 
           <div className='self-center'>
-              <img src={heroImage} alt="hero" className='h-[300px] md:h-auto md:w-auto' />
+              <img src='image3.png' alt="hero" className='h-[300px] md:h-auto md:w-auto' />
           </div>
       
         

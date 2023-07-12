@@ -1,102 +1,102 @@
 export const Sponsers = [
     {
         id: 1,
-        imgurl: "src/assets/airtel.svg",
+        imgurl: "airtel.svg",
         alt: "airtel.svg"
     },
     {
         id: 2,
-        imgurl: "src/assets/uba.svg",
+        imgurl: "uba.svg",
         alt: "uba.svg"
     },
     {
         id: 3,
-        imgurl: "src/assets/paga.svg",
+        imgurl: "paga.svg",
         alt: "paga.svg"
     },
     {
         id: 4,
-        imgurl: "src/assets/mtn.svg",
+        imgurl: "mtn.svg",
         alt: "mtn.svg"
     },
     {
         id: 5,
-        imgurl: "src/assets/dangote.svg",
+        imgurl: "dangote.svg",
         alt: "dangote.svg"
     },
     {
         id: 6,
-        imgurl: "src/assets/fistbank.svg",
+        imgurl: "fistbank.svg",
         alt: "fistbank.svg"
     },
     {
         id: 7,
-        imgurl: "src/assets/Google cloud.svg",
+        imgurl: "Google cloud.svg",
         alt: "Google cloud.svg"
     },
     {
         id: 8,
-        imgurl: "src/assets/Ebay.svg",
+        imgurl: "Ebay.svg",
         alt: "Ebay.svg"
     },
     {
         id: 9,
-        imgurl: "src/assets/Tux.svg",
+        imgurl: "Tux.svg",
         alt: "Tux.svg"
     },
     {
         id: 10,
-        imgurl:"src/assets/Spotify.svg",
+        imgurl:"Spotify.svg",
         alt: "Spotify.svg"
     },
     {
         id: 11,
-        imgurl: "src/assets/Airbnb.svg",
+        imgurl: "Airbnb.svg",
         alt: "Airbnb.svg"
     },
     {
         id: 12,
-        imgurl:"src/assets/Facebook.svg",
+        imgurl:"Facebook.svg",
         alt: "Facebook.svg"
     },
     {
         id: 13,
-        imgurl:"./src/assets/Coca Cola.svg",
+        imgurl:"Coca Cola.svg",
         alt: "Coca Cola.svg"
     },
     {
         id: 14,
-        imgurl: "src/assets/Zoom.svg",
+        imgurl: "Zoom.svg",
         alt: "Zoom.svg"
     },
     {
         id: 15,
-        imgurl:"src/assets/Creative Cloud.svg",
+        imgurl:"Creative Cloud.svg",
         alt: "Creative Cloud.svg"
     },
     {
         id: 16,
-        imgurl: "src/assets/Netflix.svg",
+        imgurl: "Netflix.svg",
         alt: "Netflix.svg"
     },
     {
         id: 17,
-        imgurl: "src/assets/Discord.svg",
+        imgurl: "Discord.svg",
         alt: "Discord.svg"
     },
     {
         id: 18,
-        imgurl: "src/assets/Figma.svg",
+        imgurl: "Figma.svg",
         alt: "Figma.svg"
     },
     {
         id: 19,
-        imgurl: "src/assets/Paypal.svg",
+        imgurl: "Paypal.svg",
         alt: "Paypal.svg"
     },
     {
         id: 20,
-        imgurl:"src/assets/Adobe.svg",
+        imgurl:"Adobe.svg",
         alt: "Adobe.svg"
     }
 ]
