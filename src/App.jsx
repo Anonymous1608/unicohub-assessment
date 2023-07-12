@@ -1,17 +1,15 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import Navbar from './components/Navbar/Navbar'
+
 import { Routes, Route } from 'react-router-dom'
 import Users from './components/Users/Users'
-import Hero from './components/Hero'
+import Home from './components/Home/Home'
+
 
 function App() {
 
     return (
       <>
-      <Navbar />
       <Routes>
-        <Route path='/' element={<Hero />} />
+        <Route path='/' element={<Home />} />
         <Route path='/users' element={<Users />} /> 
         
       </Routes>

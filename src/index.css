@@ -7,3 +7,29 @@ body {
     background-color: black;
     
 }
+
+.get-started{
+    background: radial-gradient(
+        circle at 100% 100%,
+        #000000 0,
+        #000000 26px,
+        transparent 26px
+      )
+      0% 0%/30px 30px no-repeat,
+    radial-gradient(circle at 0 100%, #000000 0, #000000 26px, transparent 26px)
+      100% 0%/30px 30px no-repeat,
+    radial-gradient(circle at 100% 0, #000000 0, #000000 26px, transparent 26px)
+      0% 100%/30px 30px no-repeat,
+    radial-gradient(circle at 0 0, #000000 0, #000000 26px, transparent 26px)
+      100% 100%/30px 30px no-repeat,
+    linear-gradient(#000000, #000000) 50% 50% / calc(100% - 8px)
+      calc(100% - 60px) no-repeat,
+    linear-gradient(#000000, #000000) 50% 50% / calc(100% - 60px)
+      calc(100% - 8px) no-repeat,
+    linear-gradient(90deg, #f503fd 0%, #1e07fd 47%, #03ecff 92%);
+
+    box-sizing: border-box;
+}
+.get-started:hover{
+    background: linear-gradient(to left, #00f0ff 1%, #5200ff 55%, #ff2df7 100%);
+}
